@@ -1,0 +1,2 @@
+# charCounter
+ jQuery Plugin
