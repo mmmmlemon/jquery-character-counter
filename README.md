@@ -30,6 +30,6 @@
         <h4>fontSize</h4>
         <p>Default: '1rem'. Changes font size for the character counter.</p>
         <hr>
-        <p>This plugin and its source code is free to use.</p>
+        <p>This plugin and its source code are free to use.</p>
    </div>
 </div>
