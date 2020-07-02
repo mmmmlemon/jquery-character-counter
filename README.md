@@ -12,9 +12,7 @@
         <br>
         <h4>How do i use it?</h4>
         <p>Easy.</p>
-        ```bash
-        $(element).charCounter({options});
-        ```
+
         <p>That's it.</p>
     </div>
 </div>
