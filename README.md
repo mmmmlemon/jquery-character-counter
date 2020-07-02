@@ -1,6 +1,6 @@
 <div>
    <h1>jQuery Character Counter</h1>
-   <h4>A jQuery based character counter for 'input' and 'textarea' HTML tags.</h4>
+   <h4>A jQuery based character counter for &lt;input&gt; and &lt;textarea&gt; HTML tags.</h4>
    <img src="readme/example.gif" alt="example gif">
    <hr>
    <div>
